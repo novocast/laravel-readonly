@@ -4,7 +4,7 @@ Simple Trait
 
 ## Install
 
-Will sort later
+`composer require novocast/laravel-readonly`
 
 ## Using the Trait:
 
