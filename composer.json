@@ -1,0 +1,27 @@
+{
+  "name": "novocast/laravel-readonly",
+  "description": "A Read-only model trait for assisting dealign with read only models.",
+  "authors": [
+    {
+      "name": "Anthony Totton",
+      "email": "novocast7@gmail.com"
+    }
+  ],
+  "keywords": [
+    "read-only",
+    "read-only model",
+    "laravel",
+    "eloquent",
+    "php"
+  ],
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Novocast\\ReadOnly\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.0.0"
+  }
+}
